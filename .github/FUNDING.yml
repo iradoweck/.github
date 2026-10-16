@@ -1,0 +1,15 @@
+# Configurações padrão de financiamento / patrocínio (Community Health Files)
+# Este arquivo é herdado automaticamente por todos os repositórios públicos e privados da conta iradoweck
+# que não possuam um arquivo FUNDING.yml próprio.
+
+# Plataforma oficial Ko-fi:
+ko_fi: edmilsonmuacigarro
+
+# Modelos para outros patrocinadores que você desejar adicionar futuramente:
+# github: [iradoweck]
+# patreon: seu_usuario
+# buy_me_a_coffee: seu_usuario
+# open_collective: seu_usuario
+# polar: seu_usuario
+# liberapay: seu_usuario
+# custom: ['https://link-personalizado.com']
